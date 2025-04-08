@@ -1,0 +1,2 @@
+# SearchAndHighlight
+Javascript mini project
